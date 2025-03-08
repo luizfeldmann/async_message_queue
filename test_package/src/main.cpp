@@ -1,5 +1,4 @@
-#include <async_message_queue/async_write.hpp>
-#include <async_message_queue/async_read_some.hpp>
+#include <async_message_queue/async_message_queue.hpp>
 
 int main()
 {
