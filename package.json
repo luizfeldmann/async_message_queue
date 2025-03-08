@@ -1,0 +1,6 @@
+{
+  "name": "async_message_queue",
+  "version": "1.0.0.0",
+  "homepage": "https://github.com/luizfeldmann/async_message_queue",
+  "description": "Extends boost::interprocess message_queue with async capabilities."
+}
